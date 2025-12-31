@@ -1,0 +1,28 @@
+{
+  "recentFiles": [
+    {
+      "basename": "首页",
+      "path": "首页.md"
+    },
+    {
+      "basename": "HTTP JSON 服务框架",
+      "path": "MTS/HTTP JSON 服务框架.md"
+    },
+    {
+      "basename": "欢迎",
+      "path": "欢迎.md"
+    },
+    {
+      "basename": "音视频码率控制",
+      "path": "音视频/ffmpeg/音视频码率控制.md"
+    },
+    {
+      "basename": "水印",
+      "path": "音视频/ffmpeg/水印.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

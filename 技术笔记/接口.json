@@ -1,0 +1,118 @@
+{
+    "task_id": "123456781234567812345678123456783",
+    "secret": "035c73f7-bb6b-4889-a715-d9eb2d1925cc",
+    "screen_width": 1920,
+    "screen_height": 1080,
+    "splice_screens": [
+        {
+            "x": 0,
+            "y": 0,
+            "width": 960,
+            "height": 540,
+            "location_index": 0, //用于确定输入源的拼接位置
+            "signal": {
+                "url": "rtsp://192.168.20.78:10084/live/test1",
+                "url_type": -1,
+                "audio_on": 1,
+                "video_on": 1
+            },
+            "osd_info": [
+                {
+                    "x": 200,
+                    "y": 250,
+                    "font_radio": 0.100,
+                    "text": "通达海88阿达打发打发",
+                    "color": "#EF8864"
+                }
+            ],
+            "border": {
+                "color": "#E66DAF"
+            }
+        },
+        {
+            "x": 960,
+            "y": 0,
+            "width": 960,
+            "height": 540,
+            "location_index": 1,
+            "signal": {
+                "url": "rtsp://192.168.20.78:10084/live/test2",
+                "url_type": -1,
+                "audio_on": 1,
+                "video_on": 1
+            },
+            "osd_info": [
+                {
+                    "x": 20,
+                    "y": 400,
+                    "font_radio": 0.100,
+                    "text": "！@#￥%%&%……&*&",
+                    "color": "#EAAD31"
+                }
+            ],
+            "border": {
+                "color": "#FAEE56"
+            }
+        },
+        {
+            "x": 0,
+            "y": 540,
+            "width": 960,
+            "height": 540,
+            "location_index": 2,
+            "signal": {
+                "signal_url": "rtsp://192.168.20.78:10084/live/test3",
+                "url_type": -1,
+                "audio_on": 1,
+                "video_on": 1
+            },
+            "osd_info": [
+                {
+                    "x": 550,
+                    "y": 250,
+                    "font_radio": 0.055,
+                    "text": "通达海99号",
+                    "color": "#ECDD31"
+                }
+            ],
+            "border": {
+                "color": "#44AD56"
+            }
+        },
+        {
+            "x": 960,
+            "y": 540,
+            "width": 960,
+            "height": 540,
+            "location_index": 3,
+            "signal": {
+                "url": "rtsp://192.168.20.78:10084/live/test2",
+                "url_type": -1,
+                "audio_on": 1,
+                "video_on": 1
+            },
+            "osd_info": [
+                {
+                    "x": 30,
+                    "y": 15,
+                    "font_radio": 0.06,
+                    "text": "审判长-某某某",
+                    "color": "#FC66EC"
+                }
+            ],
+            "border": {
+                "color": "#CED456"
+            }
+        }
+    ],
+    "video_encode_profiles": {
+        "gop": 50,
+        "frame_rate": 25,
+        "bit_rate": 4096,
+        "codec_id": 0
+    },
+    "audio_encode_profiles": {
+        "samplerate": 44100,
+        "codec_id": 2
+    }
+}

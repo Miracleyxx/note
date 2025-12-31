@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "6503b688eb4580a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "20f8a03d18c01397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c86c5efe36be9950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MTS/atlas卡/atlas驱动安装流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "atlas驱动安装流程"
+            }
+          },
+          {
+            "id": "4dea15d25d9fc135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "音视频/avplumber无向图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "avplumber无向图"
+            }
+          },
+          {
+            "id": "27321518c8cd9388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "音视频/编解码/水印算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "水印算法"
+            }
+          },
+          {
+            "id": "cc60dc061490698f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux系统/Linux 运维与开发.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux 运维与开发"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c281e2552a8801c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0d504525793bac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "094ea9e09a087ada",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b838e358cfe6b56c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3a1c2de697d279fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "c327f113be93e0b4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b56130101072f671",
+    "type": "split",
+    "children": [
+      {
+        "id": "39ce114a781d5ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5b1647851375472",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "linux命令 的反向链接列表"
+            }
+          },
+          {
+            "id": "84ef1f7444bebd56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linux命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "linux命令 的出链列表"
+            }
+          },
+          {
+            "id": "d8dc34af62cfa90f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5b16f8189a7eeac0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "caf6c16cad5e7d44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux命令.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "linux命令 的大纲"
+            }
+          },
+          {
+            "id": "4ad076d58f061bd4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5a9428e7ed9d6d3e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "094ea9e09a087ada",
+  "lastOpenFiles": [
+    "音视频/ffmpeg/ffmpeg常用命令-增强版示例.md",
+    "首页.md",
+    "MTS/HTTP JSON 服务框架.md",
+    "Obsidian使用指南.md",
+    "Linux运维地图.md",
+    "欢迎.md",
+    "音视频/ffmpeg/音视频码率控制.md",
+    "开发工具地图.md",
+    "C++知识地图.md",
+    "项目知识地图.md",
+    "未命名.base",
+    "音视频/ffmpeg/水印.md",
+    "🚀 快速开始指南.md",
+    "音视频知识地图.md",
+    "音视频/ffmpeg/ffmpeg常用命令.md",
+    "Linux系统/Linux 运维与开发.md",
+    "docker/Docker常用命令.md",
+    "BMF/Scheduler.md",
+    "多态/RTII原理（运行时类型识别）.md",
+    "多态/inline函数.md",
+    "多态/C++11.md",
+    "多态/右值引用和移动构造.md",
+    "多态/前缀和.md",
+    "多态/面试问题熟悉.md",
+    "多态/计算机网络.md",
+    "多态/多线程与多进程.md",
+    "多态/多态.md",
+    "音视频/封装格式/TS",
+    "notes/notes/algorithm_notes/_book/gitbook/images/apple-touch-icon-precomposed-152.png",
+    "项目工程",
+    "多态",
+    "notes/notes/Gitbook/_book/结束",
+    "notes/notes/Gitbook/_book/Markdown/语法介绍.html",
+    "notes/notes/Gitbook/_book/Markdown/index.html",
+    "notes/notes/Gitbook/_book/Markdown",
+    "notes/notes/Gitbook/_book/LinuxTricks/zsh教程.html",
+    "notes/notes/Gitbook/_book/LinuxTricks/index.html",
+    "notes/notes/Gitbook/_book/gitbook/images/apple-touch-icon-precomposed-152.png",
+    "notes/notes/Gitbook/_book/gitbook/fonts/fontawesome/fontawesome-webfont.svg",
+    "notes/notes/Gitbook/LinuxTricks/_book/gitbook/images/apple-touch-icon-precomposed-152.png",
+    "notes/notes/Gitbook/LinuxTricks/_book/gitbook/fonts/fontawesome/fontawesome-webfont.svg",
+    "notes/notes/C-Notes/_book/gitbook/images/apple-touch-icon-precomposed-152.png",
+    "notes/notes/C-Notes/_book/gitbook/fonts/fontawesome/fontawesome-webfont.svg",
+    "notes/notes/C-Notes/c++11features/_book/gitbook/images/apple-touch-icon-precomposed-152.png",
+    "notes/notes/C-Notes/c++11features/_book/gitbook/fonts/fontawesome/fontawesome-webfont.svg",
+    "notes/notes/algorithm_notes/_book/gitbook/fonts/fontawesome/fontawesome-webfont.svg"
+  ]
+}
